@@ -1,18 +1,19 @@
-# 👋 What's Up Inovadores ? Eu sou o Roberto Valente !
+# 👋 What's Up Inovadores ? My Name is Roberto Valente !
 
-### :computer: Sobre Mim
+### :computer: About Me
 
--  📌 **De :** Portugal 🇵🇹
--  📌 **Aprendendo :** Html e Css
--  📌 **Línguas Dominadas :** JavaScript 
+-  📌 **From :** Portugal 🇵🇹
+-  📌 **Learning :** Html e Css
+-  📌 **Knowledge in :** JavaScript 
 -  📌 **Hobbies :** Futebol e Vídeojogos
--  📌 **Slogan :** Feito, é melhor que perfeito :heart: 
+-  📌 **Slogan :** Feito, é melhor que perfeito (Portuguese Version) :heart: 
 
-### :computer: Os Meus Status do Github
+### :computer: My Github Stats
 
 ![RobertoValente's github stats](https://github-readme-stats.vercel.app/api?username=RobertoValente&show_icons=true)
 
-### 🌐 Link
+### 🌐 Link's & Social Media
 
 - 📌 **Website :** **Em Breve...**
-- 📌 **RocketSeat :** [**Clique Aqui**](https://app.rocketseat.com.br/me/roberto-valente-1566695094)
+- 📌 **RocketSeat :** [**Clique Aqui**](https://app.rocketseat.com.br/me/roberto-valente-06769)
+- 📌 **Discord :** Valey#3990
