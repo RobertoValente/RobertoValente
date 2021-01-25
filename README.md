@@ -12,7 +12,7 @@
 
 ![RobertoValente's github stats](https://github-readme-stats.vercel.app/api?username=RobertoValente&show_icons=true)
 
-### 🌐 Link's & Social Media
+### 🌐 Link's
 
 - 📌 **Website :** **Em Breve...**
 - 📌 **RocketSeat :** [**Clique Aqui**](https://app.rocketseat.com.br/me/roberto-valente-06769)
