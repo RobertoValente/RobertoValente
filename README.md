@@ -1,14 +1,14 @@
-# 👋 What's Up Inovadores ? My Name is Roberto Valente !
+# 👋 What's Up Inovadores ? Eu Sou o Roberto Valente !
 
-### :computer: About Me
+### :computer: Sobre Mim
 
--  📌 **From :** Portugal 🇵🇹
--  📌 **Learning :** Html e Css
--  📌 **Knowledge in :** JavaScript 
+-  📌 **De :** Portugal 🇵🇹
+-  📌 **Aprendendo :** Html e Css
+-  📌 **Conhecimento em :** JavaScript 
 -  📌 **Hobbies :** Futebol e Vídeojogos
 -  📌 **Slogan :** Feito, é melhor que perfeito (Portuguese Version) :heart: 
 
-### :computer: My Github Stats
+### :computer: Meus Status do GitHub
 
 ![RobertoValente's github stats](https://github-readme-stats.vercel.app/api?username=RobertoValente&show_icons=true)
 
