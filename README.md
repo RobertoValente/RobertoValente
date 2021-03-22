@@ -15,4 +15,5 @@
 - 📨 **Gmail :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
 
 ### 🎧 Ouvindo Música no Spotify :
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynut3cv3rclwc3l4n4eyrx8u5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynut3cv3rclwc3l4n4eyrx8u5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
+[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="Roberto Spotify Playing" width="350" />](https://open.spotify.com/user/ynut3cv3rclwc3l4n4eyrx8u5)
