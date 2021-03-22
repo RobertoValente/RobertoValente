@@ -12,7 +12,7 @@
 ### 📢 Entre em contacto comigo :
 - 🌐 **Portfólio :** [Sendo Desenvolvido ...](https://valey.studio)
 - 📌 **Discord :** [Valey#@@@@](https://discord.com/users/381780035784409088)
-- 📨 **Gmail :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
+- 📨 **Email :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
 
 ---
 
