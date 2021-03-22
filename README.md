@@ -14,5 +14,7 @@
 - 📌 **Discord :** [Valey#@@@@](https://discord.com/users/381780035784409088)
 - 📨 **Gmail :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
 
+---
+
 ### 🎧 Ouvindo Música no Spotify :
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynut3cv3rclwc3l4n4eyrx8u5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
