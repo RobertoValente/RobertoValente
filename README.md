@@ -6,7 +6,7 @@
 - 🌲 **Aprendendo:** JavaScript *(Voluntariamente)* e Python *(na Escola)*
 - 🏗️ **Criando:** Uma Team de Programadores !
 - 🚧 **Projeto Atual:** ZeusTeam
-- 🥳 **Metas 2021:** Finalizar o meu Projeto (ZeusTeam) ❎
+- 🥳 **Metas 2021:** Finalizar o meu Projeto (ZeusTeam)
 - 🏆 **Outras Metas:** Segredo ...
 
 ### 📢 Entre em contacto comigo :
