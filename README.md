@@ -1,4 +1,4 @@
-# 👋 Wassup Inovadores ? Eu Sou o Roberto Valente !
+# 👋 Wassup Inovadores ? Eu Sou o Roberto Valente (Valey) !
 
 <!-- <img align='right' src="https://cdn.discordapp.com/attachments/687666702292746464/823585735004127283/Valey.jpg"> => Logo Antiga -->
 <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824965878416015400/LogoNova.png" width="340" height="340"> 
