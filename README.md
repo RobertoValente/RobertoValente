@@ -1,7 +1,7 @@
 # 👋 Wassup Inovadores ? Eu Sou o Roberto Valente !
 
 <!-- <img align='right' src="https://cdn.discordapp.com/attachments/687666702292746464/823585735004127283/Valey.jpg"> => Logo Antiga -->
-<img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824792536907513866/New_Project_1.png" width="340" height="340"> 
+<img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824965878416015400/LogoNova.png" width="340" height="340"> 
 <!-- <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824789973176942692/LOGOS-52.png" width="300" height="300"> -->
 
 ### 😃 Sou Criativo, Empreendedor, Programador, Gamer e Estudante !
