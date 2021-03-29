@@ -20,3 +20,8 @@
 
 ### 🎧 Ouvindo Música no Spotify :
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynut3cv3rclwc3l4n4eyrx8u5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+### ❤️ Frases :
+- *O ontem é história, o amanhã é mistério mas o hoje é uma dádiva e é por isso que se chama Presente* **.**
