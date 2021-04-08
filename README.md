@@ -23,5 +23,6 @@
 
 ---
 
-### ❤️ Frases :
+### ❤️ Frases Motivacionais de Graça :
+- *Quando pensar em desistir, lembre-se do porquê de ter começado* **.**
 - *O ontem é história, o amanhã é mistério mas o hoje é uma dádiva e é por isso que se chama Presente* **.**
