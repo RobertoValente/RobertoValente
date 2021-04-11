@@ -14,6 +14,7 @@
 ### 📢 Entre em contacto comigo :
 - 🌐 **Portfólio :** [Sendo Desenvolvido ...](https://valey.studio)
 - 📌 **Discord :** [Valey#@@@@](https://discord.com/users/381780035784409088)
+- 🚀 **Perfil Rocketseat :** [robertovalente](https://app.rocketseat.com.br/me/robertovalente)
 - 📨 **Email :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
 
 ---
