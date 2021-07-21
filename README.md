@@ -7,8 +7,8 @@
 ### 😃 Sou Criativo, Empreendedor, Programador, Gamer e Estudante !
 - 🌲 **Aprendendo:** JavaScript *(Voluntariamente)* e Python *(na Escola)*
 - 🏗️ **Criando:** Uma Team de Programadores !
-- 🚧 **Projeto Atual:** [Mundo-Python](https://github.com/RobertoValente/mundo-python) & @ZeusTeamDev
-- 🥳 **Metas 2021:** Finalizar o meu Projeto (ZeusTeam)
+- 🚧 **Projeto Atual:** [Mundo-Python](https://github.com/RobertoValente/mundo-python)
+- 🥳 **Metas 2021:** Finalizar o meu Projeto ([@ZeusTeamDev](https://github.com/ZeusTeamDev))
 - 🏆 **Outras Metas:** Segredo ...
 
 ### 📢 Entre em contacto comigo :
