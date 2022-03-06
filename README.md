@@ -8,7 +8,7 @@
 - 🌲 **Aprendendo:** JavaScript *(Voluntariamente)* e Python *(na Escola)*
 - 🏗️ **Criando:** Uma Team de Programadores !
 - 🚧 **Projeto Atual:** [BackupDesktopToGDrive](https://github.com/RobertoValente/BackupDesktopToGDrive)
-- 🥳 **Metas 2021:** Finalizar o meu Projeto ([@ZeusTeamDev](https://github.com/ZeusTeamDev))
+- 🥳 **Meta:** Finalizar o meu Projeto ([@ValeyDev](https://github.com/ValeyDev))
 - 🏆 **Outras Metas:** Segredo ...
 
 ### 📢 Entre em contacto comigo :
