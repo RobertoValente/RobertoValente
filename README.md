@@ -14,9 +14,8 @@
 ### 📢 Entre em contacto comigo :
 - 🌐 **Portfólio :** Pensando em Criar ...
 - 📌 **Discord :** [Valey#@@@@](https://discord.com/users/381780035784409088)
-- 🚀 **Perfil Rocketseat :** [robertovalente](https://app.rocketseat.com.br/me/robertovalente)
 - 📨 **Email :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
-
+<!-- - 🚀 **Perfil Rocketseat :** [robertovalente](https://app.rocketseat.com.br/me/robertovalente) -->
 ---
 
 ### 🎧 Ouvindo Música no Spotify :
