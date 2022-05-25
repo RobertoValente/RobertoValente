@@ -5,7 +5,7 @@
 <!-- <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824789973176942692/LOGOS-52.png" width="300" height="300"> -->
 
 ### 😃 Sou Criativo, Empreendedor, Programador, Gamer e Estudante !
-- 🌲 **Aprendendo:** JavaScript/NodeJS/MongoDB *(Voluntariamente)* e Python *(na Escola)*
+- 🌲 **Aprendendo:** JavaScript/NodeJS/MongoDB *(Voluntariamente)* e Python/Java *(na Escola)*
 - 🏗️ **Criando:** Uma Team de Programadores !
 - 🚧 **Projeto Atual:** [@ValeyDev](https://github.com/ValeyDev)
 - 🥳 **Meta:** Continuar o meu Projeto ([@ValeyDev](https://github.com/ValeyDev))
