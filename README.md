@@ -4,6 +4,7 @@
 <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824965878416015400/LogoNova.png" width="340" height="340"> 
 <!-- <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824789973176942692/LOGOS-52.png" width="300" height="300"> -->
 
+*Preciso de atualizar isto :)*
 ### 😃 Sou Criativo, Empreendedor, Programador, Gamer e Estudante !
 - 🌲 **Aprendendo:** JavaScript/NodeJS/MongoDB *(Voluntariamente)* e Python/Java *(na Escola)*
 - 🏗️ **Criando:** Uma Team de Programadores !
