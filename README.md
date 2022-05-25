@@ -5,10 +5,10 @@
 <!-- <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824789973176942692/LOGOS-52.png" width="300" height="300"> -->
 
 ### 😃 Sou Criativo, Empreendedor, Programador, Gamer e Estudante !
-- 🌲 **Aprendendo:** JavaScript *(Voluntariamente)* e Python *(na Escola)*
+- 🌲 **Aprendendo:** JavaScript/NodeJS/MongoDB *(Voluntariamente)* e Python *(na Escola)*
 - 🏗️ **Criando:** Uma Team de Programadores !
-- 🚧 **Projeto Atual:** [BackupDesktopToGDrive](https://github.com/RobertoValente/BackupDesktopToGDrive)
-- 🥳 **Meta:** Finalizar o meu Projeto ([@ValeyDev](https://github.com/ValeyDev))
+- 🚧 **Projeto Atual:** [@ValeyDev](https://github.com/ValeyDev)
+- 🥳 **Meta:** Continuar o meu Projeto ([@ValeyDev](https://github.com/ValeyDev))
 - 🏆 **Outras Metas:** Segredo ...
 
 ### 📢 Entre em contacto comigo :
@@ -16,10 +16,6 @@
 - 📌 **Discord :** [Valey#@@@@](https://discord.com/users/381780035784409088)
 - 📨 **Email :** [robertovalentecontato@gmail.com](mailto:robertovalentecontato@gmail.com)
 <!-- - 🚀 **Perfil Rocketseat :** [robertovalente](https://app.rocketseat.com.br/me/robertovalente) -->
----
-
-### 🎧 Ouvindo Música no Spotify :
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynut3cv3rclwc3l4n4eyrx8u5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
