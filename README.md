@@ -2,7 +2,7 @@
 
 <img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824965878416015400/LogoNova.png" width="340" height="340"> 
 
-Para além de um simples aluno, sou um entusiasta pela tecnologia sendo atraído pelas novidades que este mundo pode trazer. E retirando o facto de ser muito curioso gostando de saber um pouco de tudo, sou bastante criativo com ideias para dar e vender.
+Para além de um simples aluno de Programação, sou um entusiasta pela tecnologia sendo atraído pelas novidades que este mundo pode trazer. E retirando o facto de ser muito curioso gostando de saber um pouco de tudo, sou bastante criativo com ideias para dar e vender.
 
 [![Github Badge](https://img.shields.io/badge/Github-RobertoValente-informational?style=flat&logo=github&color=lightgrey&link=https://github.com/RobertoValente)](https://github.com/RobertoValente)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-robertovalentecontato@gmail.com-informational?style=flat&logo=gmail&color=red&link=mailto:robertovalentecontato@gmail.com)](mailto:robertovalentecontato@gmail.com)
@@ -13,14 +13,6 @@ Para além de um simples aluno, sou um entusiasta pela tecnologia sendo atraído
 - ❤️ Amante de Backend
 - Tenho experiência em: Javascript/NodeJS, Python, Java, <strike>HTML/CSS + PHP</strike>, MySQL, Firebase e MongoDB.
 -->
-
-<br>
-<br>
-
-### 🖥️ Meu SetupDev:
-- Sistema Operativo: ZorinOS (Linux)
-- Browser: Brave
-- Editor de Código: VS Code
 
 ---
 
