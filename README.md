@@ -1,7 +1,5 @@
 # 👋 Wassup Inovadores? Eu sou o Roberto!
 
-<img align='right' src="https://cdn.discordapp.com/attachments/817757645128990721/824965878416015400/LogoNova.png" width="340" height="340"> 
-
 Para além de um simples aluno de Programação, sou um entusiasta pela tecnologia sendo atraído pelas novidades que este mundo pode trazer. E retirando o facto de ser muito curioso gostando de saber um pouco de tudo, sou bastante criativo com ideias para dar e vender.
 
 😉 **Caso deseje esclarecer alguma dúvida ou fazer networking**, sinta-se livre para me contactar:
