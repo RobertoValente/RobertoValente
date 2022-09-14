@@ -35,6 +35,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext&logoColor=007ACC)
 - 🐧 &nbsp;
   ![ZorinOS](https://img.shields.io/badge/-ZorinOS-333333?style=flat&logo=zorin&logoColor=007ACC)
   ![Linux Mint](https://img.shields.io/badge/-LinuxMint-333333?style=flat&logo=linuxmint&logoColor=007ACC)
