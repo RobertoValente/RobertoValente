@@ -14,18 +14,21 @@
 [![Github](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertoValente)
 <!-- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/user/)
 [![site.com](https://img.shields.io/badge/-SITE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.site.com/) -->
-
+  
 ### 🛠 Tecnologias que já usei:
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=007396)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
-  ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
-  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=next.Js)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.Js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -39,5 +42,7 @@
 - 🐧 &nbsp;
   ![ZorinOS](https://img.shields.io/badge/-ZorinOS-333333?style=flat&logo=zorin&logoColor=007ACC)
   ![Linux Mint](https://img.shields.io/badge/-LinuxMint-333333?style=flat&logo=linuxmint&logoColor=007ACC)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
+  
   
 <!-- ### Empresas/Projetos que me Interesso: -->
