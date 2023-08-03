@@ -1,21 +1,17 @@
-# 👋 Wassup Inovadores? Eu sou o Roberto!
+# 👋 Hey Innovators! I am Roberto!
 
-### 👨‍💻 Sobre Mim:
-- 🤓 Focando em ganhar experiência em diversas Áreas relacionadas a Tecnologia.
-- 🎓 Estudando sobre Gestão e Programação de Sistemas Informáticos.
-- 🌱 Aprendendo um pouco de tudo.
-- 💼 Desenvolvendo Projetos Pessoais.
-- 🎮 Gamer e Leitor nos tempos livres.
-
+### 👨‍💻 About Me:
+- 🤓 Focusing on gaining experience in various areas related to Technology.
+- 🎓 Studying Management and Programming of Computer Systems..
+- 🌱 Learning a little bit of everything.
+- 💼 Developing Personal Projects.
+- 🎮 Gamer and Reader in my free time.
 
 [![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/381780035784409088)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/robertoovalente)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertovalentecontato@gmail.com)
 [![Github](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertoValente)
-<!-- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/user/)
-[![site.com](https://img.shields.io/badge/-SITE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.site.com/) -->
-  
-### 🛠 Tecnologias que já usei:
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertovalennte/)
+
+### 🛠 Technologies I have used:
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -25,10 +21,9 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.Js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -36,13 +31,7 @@
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext&logoColor=007ACC)
 - 🐧 &nbsp;
   ![ZorinOS](https://img.shields.io/badge/-ZorinOS-333333?style=flat&logo=zorin&logoColor=007ACC)
   ![Linux Mint](https://img.shields.io/badge/-LinuxMint-333333?style=flat&logo=linuxmint&logoColor=007ACC)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
-  
-  
-<!-- ### Empresas/Projetos que me Interesso: -->
