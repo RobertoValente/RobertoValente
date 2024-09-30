@@ -18,21 +18,21 @@
 
 ### 🛠 Current Language and Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="28" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="28" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwindcss logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="28" alt="appwrite logo"  />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="34" alt="appwrite logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="34" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="28" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
 </div>
