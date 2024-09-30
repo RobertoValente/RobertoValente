@@ -1,37 +1,38 @@
-# 👋 Hey Innovators! I am Roberto!
+# 👋 Hey Innovators! I'm Roberto!
 
 ### 👨‍💻 About Me:
-- 🤓 Focusing on gaining experience in various areas related to Technology.
-- 🎓 Studying Management and Programming of Computer Systems..
-- 🌱 Learning a little bit of everything.
+- 🔭 I’m working as Software Developer (Freelancer).
+- 📚 Learning NextJS and ReactJS.
 - 💼 Developing Personal Projects.
 - 🎮 Gamer and Reader in my free time.
 
-[![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/381780035784409088)
-[![Github](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertoValente)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertovalennte/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/robertovalennte/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://discord.com/users/381780035784409088" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+</div>
 
-### 🛠 Technologies I have used:
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=007396)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
-  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- 🐧 &nbsp;
-  ![ZorinOS](https://img.shields.io/badge/-ZorinOS-333333?style=flat&logo=zorin&logoColor=007ACC)
-  ![Linux Mint](https://img.shields.io/badge/-LinuxMint-333333?style=flat&logo=linuxmint&logoColor=007ACC)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
+### 🛠 Current Language and Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="28" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="28" alt="express logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="28" alt="appwrite logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="28" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo"  />
+</div>
