@@ -1,7 +1,7 @@
 # 👋 Hey Innovators! I'm Roberto!
 
 ### 👨‍💻 About Me:
-- 🔭 I’m working as Software Developer (Freelancer).
+- 🔭 I’m working as Web Developer (Freelancer).
 - 📚 Learning NextJS and ReactJS.
 - 💼 Developing Personal Projects.
 - 🎮 Gamer and Reader in my free time.
